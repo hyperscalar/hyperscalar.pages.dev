@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://hyperscalar.pages.dev/en/papers/index.html</loc>
+    
+    <lastmod>2024-11-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hyperscalar.pages.dev/en/tags/index.html</loc>
+    
+    <lastmod>2024-11-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hyperscalar.pages.dev/en/about/index.html</loc>
+    
+    <lastmod>2024-11-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hyperscalar.pages.dev/en/books/index.html</loc>
+    
+    <lastmod>2024-11-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hyperscalar.pages.dev/en/categories/index.html</loc>
+    
+    <lastmod>2024-11-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hyperscalar.pages.dev/en/courses/index.html</loc>
+    
+    <lastmod>2024-11-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hyperscalar.pages.dev/en/posts/Hello-World/</loc>
+    
+    <lastmod>2018-09-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://hyperscalar.pages.dev/en</loc>
+    <lastmod>2024-11-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://hyperscalar.pages.dev/en/tags/Test/</loc>
+    <lastmod>2024-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://hyperscalar.pages.dev/en/categories/Miscellaneous/</loc>
+    <lastmod>2024-11-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>

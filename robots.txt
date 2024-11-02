@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://hyperscalar.pages.dev/zh/sitemap.xml
+Sitemap: https://hyperscalar.pages.dev/en/sitemap.xml
