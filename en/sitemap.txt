@@ -1,9 +1,9 @@
-https://hyperscalar.pages.dev/en/papers/index.html
-https://hyperscalar.pages.dev/en/tags/index.html
 https://hyperscalar.pages.dev/en/about/index.html
 https://hyperscalar.pages.dev/en/books/index.html
 https://hyperscalar.pages.dev/en/categories/index.html
 https://hyperscalar.pages.dev/en/courses/index.html
+https://hyperscalar.pages.dev/en/papers/index.html
+https://hyperscalar.pages.dev/en/tags/index.html
 https://hyperscalar.pages.dev/en/posts/Hello-World/
 https://hyperscalar.pages.dev/en
 
