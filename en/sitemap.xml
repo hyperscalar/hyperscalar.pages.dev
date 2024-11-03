@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hyperscalar.pages.dev/en/about/index.html</loc>
+    <loc>https://hyperscalar.pages.dev/en/about/</loc>
     
     <lastmod>2024-11-03</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://hyperscalar.pages.dev/en/books/index.html</loc>
+    <loc>https://hyperscalar.pages.dev/en/categories/</loc>
     
     <lastmod>2024-11-03</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://hyperscalar.pages.dev/en/categories/index.html</loc>
+    <loc>https://hyperscalar.pages.dev/en/courses/</loc>
     
     <lastmod>2024-11-03</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://hyperscalar.pages.dev/en/courses/index.html</loc>
+    <loc>https://hyperscalar.pages.dev/en/papers/</loc>
     
     <lastmod>2024-11-03</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://hyperscalar.pages.dev/en/papers/index.html</loc>
+    <loc>https://hyperscalar.pages.dev/en/books/</loc>
     
     <lastmod>2024-11-03</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://hyperscalar.pages.dev/en/tags/index.html</loc>
+    <loc>https://hyperscalar.pages.dev/en/tags/</loc>
     
     <lastmod>2024-11-03</lastmod>
     

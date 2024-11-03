@@ -398,6 +398,25 @@ information even if it fails and then restarts. / 经过上面的优化以后，
       </tags>
   </entry>
   <entry>
+    <title>关于</title>
+    <url>/zh/about/index.html</url>
+    <content><![CDATA[<center>热爱计算机</center>
+<center>热爱互联网</center>
+<center>热爱人工智能</center>
+<br>
+<center>极客</center>
+<center>完美主义者</center>
+<center>兴趣和好奇心驱动</center>
+<br>
+<center>保持初心，特立独行。</center>
+]]></content>
+  </entry>
+  <entry>
+    <title>分类</title>
+    <url>/zh/categories/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>书籍</title>
     <url>/zh/books/index.html</url>
     <content><![CDATA[<h2 id="程序设计语言"><a class="header-anchor" href="#程序设计语言">¶</a> 程序设计语言</h2>
@@ -556,25 +575,6 @@ information even if it fails and then restarts. / 经过上面的优化以后，
 </li>
 </ul>
 ]]></content>
-  </entry>
-  <entry>
-    <title>关于</title>
-    <url>/zh/about/index.html</url>
-    <content><![CDATA[<center>热爱计算机</center>
-<center>热爱互联网</center>
-<center>热爱人工智能</center>
-<br>
-<center>极客</center>
-<center>完美主义者</center>
-<center>兴趣和好奇心驱动</center>
-<br>
-<center>保持初心，特立独行。</center>
-]]></content>
-  </entry>
-  <entry>
-    <title>分类</title>
-    <url>/zh/categories/index.html</url>
-    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>课程</title>
@@ -780,13 +780,13 @@ information even if it fails and then restarts. / 经过上面的优化以后，
 ]]></content>
   </entry>
   <entry>
-    <title>论文</title>
-    <url>/zh/papers/index.html</url>
+    <title>标签</title>
+    <url>/zh/tags/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>标签</title>
-    <url>/zh/tags/index.html</url>
+    <title>论文</title>
+    <url>/zh/papers/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
 </search>

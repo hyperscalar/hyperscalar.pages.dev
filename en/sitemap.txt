@@ -1,9 +1,4 @@
-https://hyperscalar.pages.dev/en/about/index.html
-https://hyperscalar.pages.dev/en/books/index.html
-https://hyperscalar.pages.dev/en/categories/index.html
-https://hyperscalar.pages.dev/en/courses/index.html
-https://hyperscalar.pages.dev/en/papers/index.html
-https://hyperscalar.pages.dev/en/tags/index.html
-https://hyperscalar.pages.dev/en/posts/Hello-World/
+https://hyperscalar.pages.dev/en/about/https://hyperscalar.pages.dev/en/categories/https://hyperscalar.pages.dev/en/courses/https://hyperscalar.pages.dev/en/papers/https://hyperscalar.pages.dev/en/books/https://hyperscalar.pages.dev/en/tags/https://hyperscalar.pages.dev/en/posts/Hello-World/
 https://hyperscalar.pages.dev/en
+
 
