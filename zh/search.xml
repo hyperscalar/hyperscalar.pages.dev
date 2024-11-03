@@ -399,7 +399,7 @@ information even if it fails and then restarts. / 经过上面的优化以后，
   </entry>
   <entry>
     <title>关于</title>
-    <url>/zh/about/index.html</url>
+    <url>/zh//about/index.html</url>
     <content><![CDATA[<center>热爱计算机</center>
 <center>热爱互联网</center>
 <center>热爱人工智能</center>
@@ -413,17 +413,12 @@ information even if it fails and then restarts. / 经过上面的优化以后，
   </entry>
   <entry>
     <title>分类</title>
-    <url>/zh/categories/index.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>论文</title>
-    <url>/zh/papers/index.html</url>
+    <url>/zh//categories/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>书籍</title>
-    <url>/zh/books/index.html</url>
+    <url>/zh//books/index.html</url>
     <content><![CDATA[<h2 id="程序设计语言"><a class="header-anchor" href="#程序设计语言">¶</a> 程序设计语言</h2>
 <h3 id="基础"><a class="header-anchor" href="#基础">¶</a> 基础</h3>
 <ul>
@@ -582,13 +577,13 @@ information even if it fails and then restarts. / 经过上面的优化以后，
 ]]></content>
   </entry>
   <entry>
-    <title>标签</title>
-    <url>/zh/tags/index.html</url>
+    <title>论文</title>
+    <url>/zh//papers/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>课程</title>
-    <url>/zh/courses/index.html</url>
+    <url>/zh//courses/index.html</url>
     <content><![CDATA[<h2 id="算法与数据结构"><a class="header-anchor" href="#算法与数据结构">¶</a> 算法与数据结构</h2>
 <h3 id="基础"><a class="header-anchor" href="#基础">¶</a> 基础</h3>
 <ul>
@@ -788,5 +783,10 @@ information even if it fails and then restarts. / 经过上面的优化以后，
 </li>
 </ul>
 ]]></content>
+  </entry>
+  <entry>
+    <title>标签</title>
+    <url>/zh//tags/index.html</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>

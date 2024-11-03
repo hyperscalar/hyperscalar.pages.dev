@@ -1,9 +1,9 @@
 https://hyperscalar.pages.dev/zh/about/index.html
 https://hyperscalar.pages.dev/zh/categories/index.html
-https://hyperscalar.pages.dev/zh/papers/index.html
 https://hyperscalar.pages.dev/zh/books/index.html
-https://hyperscalar.pages.dev/zh/tags/index.html
+https://hyperscalar.pages.dev/zh/papers/index.html
 https://hyperscalar.pages.dev/zh/courses/index.html
+https://hyperscalar.pages.dev/zh/tags/index.html
 https://hyperscalar.pages.dev/zh/posts/About-Recursion/
 https://hyperscalar.pages.dev/zh/posts/Hello-World/
 https://hyperscalar.pages.dev/zh/posts/Paxos-Made-Simple-Reading/
