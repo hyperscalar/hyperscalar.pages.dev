@@ -42,6 +42,11 @@ C --&gt;|Two| E[Result 2]</code></pre>
       </tags>
   </entry>
   <entry>
+    <title>Books</title>
+    <url>/en/books/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>About</title>
     <url>/en/about/index.html</url>
     <content><![CDATA[<center>Love Computer</center>
@@ -68,11 +73,6 @@ C --&gt;|Two| E[Result 2]</code></pre>
   <entry>
     <title>Papers</title>
     <url>/en/papers/index.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>Books</title>
-    <url>/en/books/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>

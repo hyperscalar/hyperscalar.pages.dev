@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hyperscalar.pages.dev/en/papers/</loc>
+    
+    <lastmod>2024-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hyperscalar.pages.dev/en/tags/</loc>
+    
+    <lastmod>2024-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hyperscalar.pages.dev/en/books/</loc>
+    
+    <lastmod>2024-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hyperscalar.pages.dev/en/about/</loc>
     
     <lastmod>2024-11-03</lastmod>
@@ -29,33 +56,6 @@
   </url>
   
   <url>
-    <loc>https://hyperscalar.pages.dev/en/papers/</loc>
-    
-    <lastmod>2024-11-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hyperscalar.pages.dev/en/books/</loc>
-    
-    <lastmod>2024-11-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hyperscalar.pages.dev/en/tags/</loc>
-    
-    <lastmod>2024-11-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hyperscalar.pages.dev/en/posts/Hello-World/</loc>
     
     <lastmod>2018-09-09</lastmod>
@@ -66,7 +66,7 @@
   
 
   <url>
-    <loc>https://hyperscalar.pages.dev/en</loc>
+    <loc>https://hyperscalar.pages.dev/en/</loc>
     <lastmod>2024-11-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
