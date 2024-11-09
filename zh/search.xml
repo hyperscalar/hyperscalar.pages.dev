@@ -780,13 +780,13 @@ information even if it fails and then restarts. / 经过上面的优化以后，
 ]]></content>
   </entry>
   <entry>
-    <title>标签</title>
-    <url>/zh/tags/index.html</url>
+    <title>论文</title>
+    <url>/zh/papers/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>论文</title>
-    <url>/zh/papers/index.html</url>
+    <title>标签</title>
+    <url>/zh/tags/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
 </search>
