@@ -1,1 +1,1 @@
-# [博客](https://hyperscalar.pages.dev/zh)
+# [博客](https://hyperscalar.pages.dev/zh/)

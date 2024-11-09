@@ -1,1 +1,1 @@
-# [Blog](https://hyperscalar.pages.dev/en)
+# [Blog](https://hyperscalar.pages.dev/en/)
