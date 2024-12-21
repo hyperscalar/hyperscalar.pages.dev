@@ -409,6 +409,11 @@ Querying the state data for a specific vertex in a DAG for a user triggers loadi
 ]]></content>
   </entry>
   <entry>
+    <title>Books</title>
+    <url>/en/books/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>Categories</title>
     <url>/en/categories/index.html</url>
     <content><![CDATA[]]></content>
@@ -419,18 +424,13 @@ Querying the state data for a specific vertex in a DAG for a user triggers loadi
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>Books</title>
-    <url>/en/books/index.html</url>
+    <title>Tags</title>
+    <url>/en/tags/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>Papers</title>
     <url>/en/papers/index.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>Tags</title>
-    <url>/en/tags/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
 </search>
