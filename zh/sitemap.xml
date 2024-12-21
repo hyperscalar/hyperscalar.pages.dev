@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hyperscalar.pages.dev/zh/tags/</loc>
+    
+    <lastmod>2024-12-21</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://hyperscalar.pages.dev/zh/papers/</loc>
     
     <lastmod>2024-12-21</lastmod>
@@ -9,7 +16,7 @@
   </url>
   
   <url>
-    <loc>https://hyperscalar.pages.dev/zh/tags/</loc>
+    <loc>https://hyperscalar.pages.dev/zh/about/</loc>
     
     <lastmod>2024-12-21</lastmod>
     
@@ -31,13 +38,6 @@
   
   <url>
     <loc>https://hyperscalar.pages.dev/zh/courses/</loc>
-    
-    <lastmod>2024-12-21</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://hyperscalar.pages.dev/zh/about/</loc>
     
     <lastmod>2024-12-21</lastmod>
     
