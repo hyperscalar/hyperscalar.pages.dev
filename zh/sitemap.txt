@@ -1,9 +1,9 @@
 https://hyperscalar.pages.dev/zh/papers/
 https://hyperscalar.pages.dev/zh/tags/
-https://hyperscalar.pages.dev/zh/categories/
-https://hyperscalar.pages.dev/zh/courses/
 https://hyperscalar.pages.dev/zh/about/
 https://hyperscalar.pages.dev/zh/books/
+https://hyperscalar.pages.dev/zh/categories/
+https://hyperscalar.pages.dev/zh/courses/
 https://hyperscalar.pages.dev/zh/posts/Locality-of-Reference-and-Cache/
 https://hyperscalar.pages.dev/zh/posts/About-Recursion/
 https://hyperscalar.pages.dev/zh/posts/Hello-World/
