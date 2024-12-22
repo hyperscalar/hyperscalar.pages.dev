@@ -1,5 +1,5 @@
-https://hyperscalar.pages.dev/zh/papers/
 https://hyperscalar.pages.dev/zh/tags/
+https://hyperscalar.pages.dev/zh/papers/
 https://hyperscalar.pages.dev/zh/about/
 https://hyperscalar.pages.dev/zh/books/
 https://hyperscalar.pages.dev/zh/categories/
