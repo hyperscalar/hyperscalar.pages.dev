@@ -247,7 +247,7 @@
 <p>因此，要想利用空间局部性的关键就在于：在加载缓存数据的时候，不仅要加载当前所需的数据，还要把 “相邻” 的一部分数据也一并加载进来，即：<strong>缓存的数据加载粒度 &gt; 缓存的数据查询粒度</strong>。</p>
 <p>然而，当我们尝试将这种思路应用到分布式系统中时，会面临两大难题：</p>
 <ul>
-<li><strong>如何定义 " 相邻”</strong>：内存的相邻很好定义，就是物理地址相邻，但是对于数据库中的数据而言，情况会复杂得多，甚至同一张表中的数据，在不同的使用场景下，其相邻的定义可能也不尽相同；</li>
+<li><strong>如何定义 “相邻”</strong>：内存的相邻很好定义，就是物理地址相邻，但是对于数据库中的数据而言，情况会复杂得多，甚至同一张表中的数据，在不同的使用场景下，其相邻的定义可能也不尽相同；</li>
 <li><strong>如何确定缓存加载的最小数据单位</strong>：也就是类似 CPU 高速缓存的缓存行大小。这个值太小对空间局部性的利用程度有限，这个值太大会对缓存的加载开销和空间占用造成较大的压力。</li>
 </ul>
 <p>这两个问题没有一个通行的答案，而是需要根据自己的实际场景来权衡。下面，我将使用一个实际案例来为大家说明。</p>
@@ -763,11 +763,6 @@ information even if it fails and then restarts. / 经过上面的优化以后，
 ]]></content>
   </entry>
   <entry>
-    <title>分类</title>
-    <url>/zh/categories/index.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>书籍</title>
     <url>/zh/books/index.html</url>
     <content><![CDATA[<h2 id="程序设计语言"><a class="header-anchor" href="#程序设计语言">¶</a> 程序设计语言</h2>
@@ -926,6 +921,11 @@ information even if it fails and then restarts. / 经过上面的优化以后，
 </li>
 </ul>
 ]]></content>
+  </entry>
+  <entry>
+    <title>分类</title>
+    <url>/zh/categories/index.html</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>课程</title>
@@ -1131,13 +1131,13 @@ information even if it fails and then restarts. / 经过上面的优化以后，
 ]]></content>
   </entry>
   <entry>
-    <title>标签</title>
-    <url>/zh/tags/index.html</url>
+    <title>论文</title>
+    <url>/zh/papers/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>论文</title>
-    <url>/zh/papers/index.html</url>
+    <title>标签</title>
+    <url>/zh/tags/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
 </search>
