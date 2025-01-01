@@ -756,11 +756,16 @@ information even if it fails and then restarts. / 经过上面的优化以后，
 <center>热爱人工智能</center>
 <br>
 <center>极客</center>
-<center>完美主义者</center>
+<center>极简主义者</center>
 <center>兴趣和好奇心驱动</center>
 <br>
-<center>保持初心，特立独行。</center>
+<center>不变初心，特立独行。</center>
 ]]></content>
+  </entry>
+  <entry>
+    <title>分类</title>
+    <url>/zh/categories/index.html</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>书籍</title>
@@ -921,11 +926,6 @@ information even if it fails and then restarts. / 经过上面的优化以后，
 </li>
 </ul>
 ]]></content>
-  </entry>
-  <entry>
-    <title>分类</title>
-    <url>/zh/categories/index.html</url>
-    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>课程</title>
