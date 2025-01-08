@@ -763,6 +763,11 @@ information even if it fails and then restarts. / 经过上面的优化以后，
 ]]></content>
   </entry>
   <entry>
+    <title>分类</title>
+    <url>/zh/categories/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>书籍</title>
     <url>/zh/books/index.html</url>
     <content><![CDATA[<h2 id="程序设计语言"><a class="header-anchor" href="#程序设计语言">¶</a> 程序设计语言</h2>
@@ -921,11 +926,6 @@ information even if it fails and then restarts. / 经过上面的优化以后，
 </li>
 </ul>
 ]]></content>
-  </entry>
-  <entry>
-    <title>分类</title>
-    <url>/zh/categories/index.html</url>
-    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>课程</title>
