@@ -9,14 +9,14 @@
   </url>
 
   <url>
-    <loc>https://hyperscalar.pages.dev/en/tags/</loc>
+    <loc>https://hyperscalar.pages.dev/en/papers/</loc>
     <lastmod>2025-11-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
-    <loc>https://hyperscalar.pages.dev/en/papers/</loc>
+    <loc>https://hyperscalar.pages.dev/en/tags/</loc>
     <lastmod>2025-11-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -37,14 +37,14 @@
   </url>
 
   <url>
-    <loc>https://hyperscalar.pages.dev/en/courses/</loc>
+    <loc>https://hyperscalar.pages.dev/en/categories/</loc>
     <lastmod>2025-11-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
-    <loc>https://hyperscalar.pages.dev/en/categories/</loc>
+    <loc>https://hyperscalar.pages.dev/en/courses/</loc>
     <lastmod>2025-11-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
