@@ -2,9 +2,9 @@ https://hyperscalar.pages.dev/en/
 https://hyperscalar.pages.dev/en/papers/
 https://hyperscalar.pages.dev/en/tags/
 https://hyperscalar.pages.dev/en/about/
-https://hyperscalar.pages.dev/en/categories/
 https://hyperscalar.pages.dev/en/books/
 https://hyperscalar.pages.dev/en/courses/
+https://hyperscalar.pages.dev/en/categories/
 https://hyperscalar.pages.dev/en/posts/Locality-of-Reference-and-Cache/
 https://hyperscalar.pages.dev/en/posts/Hello-World/
 https://hyperscalar.pages.dev/en/categories/Caching/
